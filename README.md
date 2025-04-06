@@ -6,6 +6,9 @@ Pranjal Goyal
 Model link:
 Google Colab: [https://colab.research.google.com/drive/1eCQIYKwD6cRcA4bki3G3f3y5uRV11LVl#scrollTo=SkbQy09YltrS]
 
+Report link:
+https://iitgnacin-my.sharepoint.com/:w:/g/personal/24110274_iitgn_ac_in/Eb_2zUJuPklCpN6LXQK2kN8BIma0YYkjn32oowAoEUUmrA?e=szbwnp
+
 Inference Speed (On Google Colab T4 GPU):
 Total execution time: 598.44 seconds (9.97 minutes)
 
